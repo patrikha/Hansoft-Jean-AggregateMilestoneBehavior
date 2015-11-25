@@ -31,7 +31,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="HPMSdkManaged_4_5.x86">
-      <HintPath>..\HansoftSdk\HPMSdkManaged_4_5.x86.dll</HintPath>
+      <HintPath>..\HansoftSDK\Win32\HPMSdkManaged_4_5.x86.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
