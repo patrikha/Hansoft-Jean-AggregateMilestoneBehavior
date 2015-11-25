@@ -107,7 +107,7 @@ namespace Hansoft.Jean.Behavior.AggregateMilestoneBehavior
             }
         }
 
-        public override void OnTaskChangeCustomColumnData(TaskChangeCustomColumnDataEventArgs e)
+        public override void OnTaskChange(TaskChangeEventArgs e)
         {
             if (initializationOK)
             {
